@@ -1,0 +1,39 @@
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\bin\Debug\Onana Hospital Management System.exe.config
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\bin\Debug\Onana Hospital Management System.exe
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\bin\Debug\Onana Hospital Management System.pdb
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\HMS.csproj.AssemblyReference.cache
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\HMS.csproj.SuggestedBindingRedirects.cache
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.Form1.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmAppointment.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmConsultation.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmDocPrescription.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmHelp.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmLogin.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmMedication.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmNurseTest.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmEmployee.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmParent.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmPatientBills.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmPayments.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmsplashScreen.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmSupplier.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmProduct.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmPatient.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmupdateEmployee.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmUpdatePassword.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmUpdatePatient.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmUsers.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmViewAppointment.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmViewBills.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmviewDailyTrans.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmViewDept.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmViewEmployee.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmViewPatient.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmViewPatientWeight.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmViewUsers.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.frmWard.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana_Hospital_Management_System.Properties.Resources.resources
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\HMS.csproj.GenerateResource.cache
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\HMS.csproj.CoreCompileInputs.cache
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana Hospital Management System.exe
+F:\xampp\htdocs\Need\forgithub\Hospital app\Onana Hospital Management System\obj\Debug\Onana Hospital Management System.pdb
